@@ -1,0 +1,1 @@
+ec2_intance_count = 1
